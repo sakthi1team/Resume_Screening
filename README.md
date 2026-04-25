@@ -3,6 +3,8 @@
 
 🔗 Live Demo: https://resumescreening-4pfdtqd5fh9ibwgbynzyp3.streamlit.app/
 
+📄 Project Report: [View Report](report.pdf)
+
 An AI-powered resume classifier that predicts job categories from resume text using **NLP + TF-IDF + ML models** (Naive Bayes & KNN).
 
 ---
